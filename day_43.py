@@ -31,7 +31,7 @@ class weirdbird:
     def showbird(self):
         print('you have %s wings&%s legs&%s eyes&%s color.'%(self.w,self.l,self.e,self.c))
     
-
+"""
 >>> zyy=weirdbird(3,3,3,'red')
 you have 3 wings&3 legs&3 eyes&red color.
 >>> import copy
@@ -44,3 +44,4 @@ you have 9 wings&3 legs&3 eyes&red color.
 >>> nancy.showbird()
 you have 3 wings&3 legs&3 eyes&red color.
 >>> 
+"""
